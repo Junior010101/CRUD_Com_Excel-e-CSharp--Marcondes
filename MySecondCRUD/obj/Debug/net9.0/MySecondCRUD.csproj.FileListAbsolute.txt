@@ -1,0 +1,1 @@
+C:\Users\Marcondes\Downloads\CRUD Com Excel e C# - Marcondes\MySecondCRUD\obj\Debug\net9.0\MySecondCRUD.csproj.AssemblyReference.cache
