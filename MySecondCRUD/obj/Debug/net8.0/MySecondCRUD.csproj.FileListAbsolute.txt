@@ -42,3 +42,29 @@ C:\Users\Marcondes\Downloads\CRUD Com Excel e C# - Marcondes\MySecondCRUD\bin\De
 C:\Users\Marcondes\Downloads\CRUD Com Excel e C# - Marcondes\MySecondCRUD\bin\Debug\net8.0\RBush.dll
 C:\Users\Marcondes\Downloads\CRUD Com Excel e C# - Marcondes\MySecondCRUD\bin\Debug\net8.0\SixLabors.Fonts.dll
 C:\Users\Marcondes\Downloads\CRUD Com Excel e C# - Marcondes\MySecondCRUD\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.csproj.AssemblyReference.cache
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\refint\MySecondCRUD.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.pdb
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\MySecondCRUD.exe
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\MySecondCRUD.deps.json
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\MySecondCRUD.runtimeconfig.json
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\MySecondCRUD.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\MySecondCRUD.pdb
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\Colorful.Console.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\RBush.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\bin\Debug\net8.0\System.IO.Packaging.dll
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.AssemblyInfoInputs.cache
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.AssemblyInfo.cs
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.sourcelink.json
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecond.4CC55105.Up2Date
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\MySecondCRUD.genruntimeconfig.cache
+C:\Users\Marcondes\Downloads\CRUD_Com_Excel-e-CSharp--Marcondes\MySecondCRUD\obj\Debug\net8.0\ref\MySecondCRUD.dll

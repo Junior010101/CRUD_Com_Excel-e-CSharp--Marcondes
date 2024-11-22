@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Marcondes\\Downloads\\CRUD Com Excel e C# - Marcondes\\MySecondCRUD\\MySecondCRUD.csproj": {}
+    "C:\\Users\\Marcondes\\Downloads\\CRUD_Com_Excel-e-CSharp--Marcondes\\MySecondCRUD\\MySecondCRUD.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Marcondes\\Downloads\\CRUD Com Excel e C# - Marcondes\\MySecondCRUD\\MySecondCRUD.csproj": {
+    "C:\\Users\\Marcondes\\Downloads\\CRUD_Com_Excel-e-CSharp--Marcondes\\MySecondCRUD\\MySecondCRUD.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Marcondes\\Downloads\\CRUD Com Excel e C# - Marcondes\\MySecondCRUD\\MySecondCRUD.csproj",
+        "projectUniqueName": "C:\\Users\\Marcondes\\Downloads\\CRUD_Com_Excel-e-CSharp--Marcondes\\MySecondCRUD\\MySecondCRUD.csproj",
         "projectName": "MySecondCRUD",
-        "projectPath": "C:\\Users\\Marcondes\\Downloads\\CRUD Com Excel e C# - Marcondes\\MySecondCRUD\\MySecondCRUD.csproj",
+        "projectPath": "C:\\Users\\Marcondes\\Downloads\\CRUD_Com_Excel-e-CSharp--Marcondes\\MySecondCRUD\\MySecondCRUD.csproj",
         "packagesPath": "C:\\Users\\Marcondes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Marcondes\\Downloads\\CRUD Com Excel e C# - Marcondes\\MySecondCRUD\\obj\\",
+        "outputPath": "C:\\Users\\Marcondes\\Downloads\\CRUD_Com_Excel-e-CSharp--Marcondes\\MySecondCRUD\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Marcondes\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -38,9 +38,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -53,10 +52,6 @@
             "Colorful.Console": {
               "target": "Package",
               "version": "[1.2.15, )"
-            },
-            "EPPlus": {
-              "target": "Package",
-              "version": "[7.5.0, )"
             }
           },
           "imports": [
@@ -75,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
